@@ -1,11 +1,13 @@
 # findTickets
 Use python crawlers(scrapy framework) to capture ticket/train/bus ticket price information on major travel sites
 
-<ol>
+<ul>
   <li>目前已实现去哪儿网站火车票抓取</li>
-</ol>
+</ul>
 TODO：
-+实现机票/汽车票；携程/飞猪信息抓取
+<ul>
+  <li>实现机票/汽车票；携程/飞猪信息抓取</li>
+</ul>
 
 
 <h2>运行程序</h2>

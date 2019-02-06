@@ -3,9 +3,10 @@ Use python crawlers(scrapy framework) to capture ticket/train/bus ticket price i
 
 ·目前已实现去哪儿网站火车票抓取
 
-·正常运行程序：
-·cd findTickets/findTickets/spiders
-·python main.py -n   
+##运行程序##
+<pre><code>cd findTickets/findTickets/spiders
+<br/>
+·python main.py -n</code></pre>
 
 #运行并导出信息到result.csv
 ·python main.py -o  

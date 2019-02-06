@@ -4,6 +4,8 @@ Use python crawlers(scrapy framework) to capture ticket/train/bus ticket price i
 <ul>
   <li>目前已实现去哪儿网站火车票抓取</li>
 </ul>
+<img url="https://github.com/Zhxhh/findTickets/blob/master/images/result.png"/>
+<img url="https://github.com/Zhxhh/findTickets/blob/master/images/running screenshot.png"/>
 TODO：
 <ul>
   <li>实现机票/汽车票；携程/飞猪信息抓取</li>
